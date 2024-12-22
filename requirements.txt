@@ -6,3 +6,13 @@ openai
 faiss-cpu
 altair
 tiktoken
+<<<<<<< HEAD
+=======
+langchain
+langchain-community
+streamlit
+pandas
+openai
+boto3
+python-dotenv
+>>>>>>> 0bdfa08 (Initial commit)
