@@ -12,3 +12,4 @@ openai
 boto3
 python-dotenv
 langchain-community
+langchain==0.0.2
