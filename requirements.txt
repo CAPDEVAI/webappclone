@@ -6,6 +6,7 @@ openai
 faiss-cpu
 altair
 tiktoken
+<<<<<<< HEAD
 streamlit
 pandas
 openai
@@ -13,3 +14,8 @@ boto3
 python-dotenv
 langchain-community
 langchain==0.0.2
+=======
+langchain-community
+pandas
+boto3
+>>>>>>> 7b7038a (Updated app.py, requirements.txt, and added pdfs directory)
